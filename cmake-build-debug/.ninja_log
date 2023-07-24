@@ -1,0 +1,7 @@
+# ninja log v5
+1	381	1690221929014486801	CMakeFiles/archiver.dir/parser.cpp.o	fa577e134bb1fcf1
+1	438	1690221929070487742	CMakeFiles/archiver.dir/my_num.cpp.o	6581082178120236
+1	738	1690221929370492788	CMakeFiles/archiver.dir/code.cpp.o	3942a6ec787d3bb7
+0	761	1690221929390493123	CMakeFiles/archiver.dir/archiver.cpp.o	9b032d0132174a40
+1	766	1690221929398493258	CMakeFiles/archiver.dir/node.cpp.o	9df64e9236f9f669
+766	825	1690221929454494200	archiver	4212bddb62d19766
